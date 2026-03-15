@@ -2,4 +2,5 @@ const x='x';
 const y='y';
 console.log(x, y);
 
-console.log( "alaa Khaled Abdelaal");
+console.log( "alaa Khaled ");
+console.log( "age = 22");
