@@ -5,3 +5,4 @@ console.log(x, y);
 console.log( "alaa Khaled ");
 console.log( "age = 22");
 console.log( "major: CS");
+console.log( "subject: math201");
